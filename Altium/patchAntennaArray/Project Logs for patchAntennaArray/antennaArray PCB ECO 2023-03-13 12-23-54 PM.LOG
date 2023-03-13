@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-73251-1350-MFG New Footprint=CON-SMA-SMD-RA
+Change Component Comment : Designator=J1 Old Comment=73251-1350 New Comment=CONSMA002-SMD
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E19690EF-2461-48FB-9DAF-284EB28485A0 New ItemGUID=89BE7434-27D6-4C19-B486-9C2E70B36CFE Old RevisionGUID=F7B79D1C-80DE-4FC0-A146-EA502A4D7411 New RevisionGUID=51ED3F33-0EB5-45FC-9FE6-47F074136DC3
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-73251-1350-MFG"; UniqueID = "\IGQFBTWA" ("\IGQFBTWA")
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revB, Oct-2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SMA Female Right Angle, Surface Mount Connector, 7 x 7 mm Body"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CON-SMA-SMD-RA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2010"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin A1-Port1
+Add Pin To Net: Unknown Pin: Pin A2-Port1
+Add Pin To Net: Unknown Pin: Pin A3-Port1
+Add Pin To Net: Unknown Pin: Pin A4-Port1
