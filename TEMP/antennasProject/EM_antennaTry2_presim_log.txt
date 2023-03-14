@@ -1,0 +1,5 @@
+00:03:18 2023-03-14 Log: Do check dataset with the current document
+00:03:18 2023-03-14 Log: Compare the document with the dataset 'EM_Opt4_DS8'
+00:03:18 2023-03-14 Log: [_AUTO_PORTS_]
+00:03:18 2023-03-14 Log: Re-simulation, geometry has changed
+00:03:18 2023-03-14 Log: Schedule simulation job with AXIEM® - Async
