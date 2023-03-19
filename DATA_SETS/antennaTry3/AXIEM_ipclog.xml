@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ipc_log_formatter.xsl"?>
+<tool_session>
+	<ipc_session>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.363</timestamp>
+			<serial_num>0000030</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03103</msg_id> <msg_name>SE_INIT_STATUS_DLG</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>%dAgSh1t45QFniDYavMK%2</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.365</timestamp>
+			<serial_num>0000031</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>HFyDCau7FUsWxPGpeFC5Co</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.366</timestamp>
+			<serial_num>0000032</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>%Fs1BM6L0q%JH_SOXr9dIA</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.366</timestamp>
+			<serial_num>0000033</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>UTHzuKf0UY15M4n9hsAwOi</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.368</timestamp>
+			<serial_num>0000034</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>ox%w7_1PU7cSsPrWdLHT_L</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.368</timestamp>
+			<serial_num>0000035</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>dtpbRALWi%FT_DtLtS%nrZ</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.368</timestamp>
+			<serial_num>0000036</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>Bh7p4tCLSqZAHShNp76usp</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2023-03-19T14:11:52.368</timestamp>
+			<serial_num>0000037</serial_num>
+			<type>message</type>
+			<direction>send</direction>
+			<transport>awr_local_ipc</transport>
+			<proc_name>AXIEM</proc_name> <proc_id>13032</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<encoding>raw</encoding>
+			<from>EM_Server_tUAAyihV97AbugJw2S3nod.0829500459_384896946.0</from>
+			<to>MWO_Client_tUAAyihV97AbugJw2S3nod.0829500459</to>
+			<message_unique_name>JnOov9xdC4SnjpthBR4vkh</message_unique_name>
+		</ipc_event>
+	</ipc_session>
+</tool_session>
